@@ -1,2 +1,2 @@
 # Html-css-javascript
-learnin html, css, java script
+learning html, css, java script
